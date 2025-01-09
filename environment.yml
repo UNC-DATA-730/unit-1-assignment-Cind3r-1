@@ -1,4 +1,4 @@
-name: data730
+name: myenv
 channels:
   - conda-forge
   - chuckpr
